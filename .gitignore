@@ -1,0 +1,29 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# Gulp
+node_modules
+# dist
+package-lock.json
+**/prepros.config
+src/css
+jshintrc
+*.jshintrc
+
+# from Vadim Makeev
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Trasher
+Icon
