@@ -1,5 +1,5 @@
 # Gulp - сборка MaxGraph
-##### Автор GULP сборки - Maksim Vasyanovich(maxgraph)
+Автор GULP сборки - Maksim Vasyanovich(maxgraph)
 <br>
 > Используется Gulp 4
 
